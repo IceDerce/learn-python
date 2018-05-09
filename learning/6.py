@@ -7,5 +7,5 @@ def max1 (x1, x2):
 
 a = 1
 b = 3
-c = max1(a, b)
+c = max(a, b)
 print(c)
